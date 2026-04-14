@@ -6,7 +6,7 @@ PyTorch 1.12.0 implementation of the following paper
 The encoder adopts CLIP (ViT-B/16).
 
 # Training weight file
-The addresses of the training weight files for different datasets：
+The addresses of the training weight files for different datasets：https://pan.baidu.com/s/1J0XFEg6A6H28sZjilIxOEQ?pwd=yhz4
 
 # Experimental evaluation of multimodal models
 The test results of LLaVA (13B) are available at：
