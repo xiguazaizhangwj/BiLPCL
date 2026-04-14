@@ -14,7 +14,7 @@ The test results of LLaVA (13B) are available at：https://pan.baidu.com/s/1b1bd
 The test results of Qwen3-vl (8B) are available at：https://pan.baidu.com/s/1gwbtxCQThkhpY59oLnUMNg?pwd=y233
 
 # Evaluation of feature extraction using the pretrained CLIP model
-The links to the model code and trained weights for shallow neural networks (e.g., MLP and Transformer architectures) and traditional machine learning models (e.g., decision trees)：https://pan.baidu.com/s/1b1bdq6yNhXKI7D8gAc4P-A?pwd=stw8
+The links to the model code and trained weights for shallow neural networks (e.g., MLP and Transformer architectures) and traditional machine learning models (e.g., decision trees)：https://pan.baidu.com/s/1f79jbndLhtGDZwNicLoNTw?pwd=rsnr
 
 # Code
 The code of this work will be released soon.
